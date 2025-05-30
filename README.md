@@ -1,23 +1,15 @@
-# ReaPack Repository Template
+# ReaSeth ReaPack Repository
 
-A template for GitHub-hosted ReaPack repositories with automated
-[reapack-index](https://github.com/cfillion/reapack-index)
-running from GitHub Actions.
+These ReaScripts were developed for my personal workflow, with assistance from a customized GPT tool. I’m sharing them publicly in case others find them useful or inspiring.
 
-Replace the name of the repository in [index.xml](/index.xml) when using this template.
-This will be the name shown in ReaPack.
+Disclaimer:
+These scripts are provided “as is,” without warranty or guarantee of functionality. Use at your own risk, and always back up your REAPER configuration before installation.
 
 ```xml
-<index version="1" name="Name of your repository here">
+<index version="1" name="SETH_Reascripts">
 ```
 
 Replace the contents of this file ([README.md](/README.md)).
 This will be the text shown when using ReaPack's "About this repository" feature.
 
-reapack-index looks for package files in subfolders.
-The folder tree represents the package categories shown in ReaPack.
-
-Each package file is expected to begin with a metadata header.
-See [Packaging Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation) on reapack-index's wiki.
-
-The URL to import in ReaPack is [https://github.com/`<your username>`/`<repository name>`/raw/master/index.xml](https://github.com/cfillion/reapack-repository-template/raw/master/index.xml).
+The URL to import in ReaPack is [https://github.com/ReaSeth/SETH-Reascripts/raw/master/index.xml](https://github.com/ReaSeth/SETH-Reascripts/raw/master/index.xml).
