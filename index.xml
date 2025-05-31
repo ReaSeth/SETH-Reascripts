@@ -7,20 +7,20 @@
         <description><![CDATA[
 **ReaSeth ReaScripts**
 
-A growing collection of REAPER scripts by Seth, designed to streamline everyday production, composition, and mixing tasks. Each script is purpose-built to simplify complex workflows without adding clutter.
+A curated collection of REAPER scripts by Seth, crafted to enhance workflow, speed up creative tasks, and solve common pain points in production, mixing, and post.
 
-### Highlights:
-- Precision tools for editing, automation, and routing
-- Designed with speed, clarity, and minimal UI interruption
-- In-script comments and modular structure for easy customization
+### Key Features:
+- Lightweight, focused tools for editing, automation, and routing
+- Designed for clarity, efficiency, and REAPER-native feel
+- Clean inline documentation for each script
 
-Perfect for anyone who wants REAPER to move as fast as their ideas.
+Whether you’re producing, editing, or sound designing — these scripts are built to stay out of the way and get the job done.
 
-For updates, installation tips, or source code, visit the [GitHub repository](https://github.com/your-username/your-repo).
+[View on GitHub](https://github.com/ReaSeth/SETH-Reascripts)
         ]]></description>
       </metadata>
       <version name="1.0" author="Seth" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/your-username/your-repo/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Utilities/ReaSeth_HelloWorld.lua</source>
+        <source main="main">https://github.com/ReaSeth/SETH-Reascripts/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Utilities/ReaSeth_HelloWorld.lua</source>
       </version>
     </reapack>
   </category>
@@ -29,21 +29,21 @@ For updates, installation tips, or source code, visit the [GitHub repository](ht
     <description><![CDATA[
 **ReaSeth ReaPack Repository**
 
-This is the official ReaPack repository for ReaSeth — a curated suite of REAPER scripts and tools crafted by Seth to boost speed, workflow, and creativity.
+This is the official ReaPack repository for **ReaSeth** — a growing library of REAPER scripts created by Seth to empower creators with faster, cleaner workflows.
 
-Whether you're composing, mixing, editing, or sound designing, ReaSeth scripts aim to minimize friction and help you focus on what matters: the music.
+Each script is designed for practicality and musical intuition, with a focus on staying lightweight and reliable.
 
-### Repository Features:
-- Organized by category for intuitive browsing
-- Includes clean metadata and documentation
-- Fully compatible with ReaPack installation and updates
+### Features:
+- Scripts are organized by category
+- Includes versioning and in-script help
+- Compatible with ReaPack's automatic updates
 
-### How to Use:
-1. Add this URL to ReaPack:  
-2. Browse and install directly inside REAPER.
-3. Updates are fetched automatically via ReaPack.
+### To install in REAPER:
+1. Open ReaPack > Manage Repositories
+2. Add this URL:
+3. Browse and install packages directly inside REAPER.
 
-[Learn more about packaging scripts for ReaPack](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation)
+> For more info on packaging: [ReaPack Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation)
  ]]></description>
 </metadata>
 
