@@ -20,7 +20,7 @@ Whether you’re producing, editing, or sound designing — these scripts are bu
         ]]></description>
       </metadata>
       <version name="1.0" author="Seth" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/ReaSeth/SETH-Reascripts/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Utilities/ReaSeth_HelloWorld.lua</source>
+        <source main="main">https://github.com/ReaSeth/SETH-Reascripts/</source>
       </version>
     </reapack>
   </category>
